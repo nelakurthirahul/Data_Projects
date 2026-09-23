@@ -1,0 +1,22 @@
+# Raw and processed data
+*.csv
+*.parquet
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment files
+.env
+venv/
+.venv/
+
+# Google Cloud credentials
+*.json
+
+# Jupyter / Colab checkpoints
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+Thumbs.db
